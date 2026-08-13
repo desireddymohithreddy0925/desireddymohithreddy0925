@@ -22,13 +22,13 @@ I build full-stack applications with a strong focus on **Java backend engineerin
 
 ### Core Stack
 
-| Layer           | Technologies                           |
-| --------------- | -------------------------------------- |
-| **Backend**     | Java · Spring Boot · REST APIs         |
-| **Frontend**    | React.js · JavaScript · Vite           |
-| **Databases**   | PostgreSQL · MongoDB                   |
-| **Engineering** | OOP · DSA · Algorithms · System Design |
-| **Tools**       | Git · GitHub · IntelliJ IDEA · VS Code |
+| Layer           | Technologies                                       |
+| --------------- | -------------------------------------------------- |
+| **Backend**     | Java · Spring Boot · Python · REST APIs            |
+| **Frontend**    | React.js · JavaScript · Vite · BootStrap           |
+| **Databases**   | PostgreSQL · MongoDB · FireBase · MySQL            |
+| **Engineering** | OOP · DSA · Algorithms · System Design · Networks  |
+| **Tools**       | Cursor · WindSurf · VS Code · IntelliJ IDEA        |
 
 ---
 
