@@ -80,7 +80,22 @@ Full-stack development experience focused on building practical software applica
 
 ---
 
-### 03 — Movie Ticket Engine
+### 03 — Seating Arrangement Generator
+
+**Automated classroom allocation system**
+
+`Java` `Spring Boot` `HTML` `CSS`
+
+> Automating classroom seat allocation through a Spring Boot application.
+
+* Automated seat generation
+* Backend processing
+* Frontend integration
+* Local deployment
+
+---
+
+### 04 — Movie Ticket Engine
 
 **Java ticket booking system**
 
@@ -93,21 +108,6 @@ Full-stack development experience focused on building practical software applica
 * Student tickets
 * Ticket generation
 * Pricing logic
-
----
-
-### 04 — Seating Arrangement Generator
-
-**Automated classroom allocation system**
-
-`Java` `Spring Boot` `HTML` `CSS`
-
-> Automating classroom seat allocation through a Spring Boot application.
-
-* Automated seat generation
-* Backend processing
-* Frontend integration
-* Local deployment
 
 ---
 
