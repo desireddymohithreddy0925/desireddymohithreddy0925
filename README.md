@@ -119,7 +119,7 @@ Building, improving and contributing to software through open-source collaborati
 
 ### GSSoC 2026
 
-**Global Rank — #4**
+**Global Rank — #5**
 
 Contributing features, improvements and engineering solutions to open-source projects.
 
