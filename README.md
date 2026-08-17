@@ -133,7 +133,7 @@ Contributing features, improvements and engineering solutions to open-source pro
 
 **Coding Problems Solved**
 
-`500+ CodeChef`   ·   `100+ LeetCode / HackerRank`
+`500+ CodeChef`   ·   `100+ LeetCode & HackerRank`
 
 </div>
 
