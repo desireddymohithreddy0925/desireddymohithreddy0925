@@ -155,7 +155,8 @@ AI ENGINEERING   ███████████████░░░░░
 
 ## ✦ ENGINEERING PRINCIPLES
 
-> **Build less. Build better...**
+> **Build less. Build better.**
+
 
 ```text
 01  Strong Fundamentals
