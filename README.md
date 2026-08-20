@@ -1,6 +1,6 @@
 <div align="center">
 
-# `_PRODUCT ENGINEER_`
+# `PRODUCT ENGINEER`
 
 ### Java · Spring Boot · React.js · PostgreSQL · MongoDB
 
