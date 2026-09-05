@@ -30,21 +30,7 @@ I build full-stack applications with a strong focus on **Java backend engineerin
 | **Engineering** | OOP · DSA · Algorithms · System Design · Networks  |
 | **Tools**       | Cursor · WindSurf · VS Code · IntelliJ IDEA        |
 
----
 
-## ✦ EXPERIENCE
-
-### Full Stack Developer Intern
-
-**Samasra Soft**
-
-Full-stack development experience focused on building practical software applications and strengthening production-oriented engineering skills.
-
-**Primary Stack**
-
-`Java` `Spring Boot` `React.js` `PostgreSQL` `MongoDB`
-
----
 
 ## ✦ SELECTED WORK
 
